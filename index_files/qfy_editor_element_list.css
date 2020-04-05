@@ -1,0 +1,315 @@
+
+body.compose-mode  .dragitem.vc_column_text_column_blank,
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_column_blank,
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_column_inner_blank{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/blank/layout.jpg);
+}
+body.compose-mode  .dragitem.vc_column_text_column_blank_1,
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_column_blank_1{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/blank/blank.jpg);
+}
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_column_blank_1-2_1-2,
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_column_inner_blank_1-2_1-2{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/blank/two.jpg);
+}
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_column_blank_1-3_1-3_1-3,
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_column_inner_blank_1-3_1-3_1-3{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/blank/three.jpg);
+}
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_column_blank_1-4_1-4_1-4_1-4,
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_column_inner_blank_1-4_1-4_1-4_1-4{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/blank/four.jpg);
+}
+
+body.compose-mode  .dragitem.vc_column_text_block_1,
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_block_1{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/text.jpg);
+}
+body.compose-mode   .dragitem.vc_column_text_header_1,
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_header_1{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/title.jpg);
+}
+
+body.compose-mode  .dragitem.vc_column_text_image_1,
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_image_1 {
+	background-image: url(//f.goodq.top/FeiEditor/images/com/image.jpg);
+}
+body.compose-mode  .dragitem.vc_btn_primry,
+#vc-add-element-dialog .qfe-content-layouts li.vc_btn_primry{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/notice_confirm.jpg);
+}
+body.compose-mode   .dragitem.vc_btn_default,
+#vc-add-element-dialog .qfe-content-layouts li.vc_btn_default{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/notice_cancel.jpg);
+}
+body.compose-mode   .dragitem.vc_btn,
+#vc-add-element-dialog .qfe-content-layouts li.vc_btn{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/button.jpg);
+}
+body.compose-mode   .dragitem.vc_icon,
+#vc-add-element-dialog .qfe-content-layouts li.vc_icon{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/icons/icon.jpg);
+}
+body.compose-mode   .dragitem.vc_bit_qqmaps,
+#vc-add-element-dialog .qfe-content-layouts li.vc_bit_qqmaps {
+	background-image: url(//f.goodq.top/FeiEditor/images/com/map.jpg);
+}
+body.compose-mode   .dragitem.vc_gallery,
+#vc-add-element-dialog .qfe-content-layouts li.vc_gallery {
+	background-image: url(//f.goodq.top/FeiEditor/images/com/slider-1.jpg);
+}
+body.compose-mode   .dragitem.vc_images_list,
+#vc-add-element-dialog .qfe-content-layouts li.vc_images_list{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/images/gallery1.jpg);
+}
+body.compose-mode   .dragitem.vc_images_carousel,
+#vc-add-element-dialog .qfe-content-layouts li.vc_images_carousel{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/images/gallery2.jpg);
+}
+body.compose-mode   .dragitem.vc_socail_icons_list,
+#vc-add-element-dialog .qfe-content-layouts li.vc_socail_icons_list{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/icons/socail_icon.jpg);
+}
+body.compose-mode   .dragitem.vc_column_text_postlist_1,
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_postlist_1{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/post_list.jpg);
+}
+body.compose-mode   .dragitem.vc_column_text_advancedlist_1,
+#vc-add-element-dialog .qfe-content-layouts li.vc_column_text_advancedlist_1{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/advancedlist.jpg);
+}
+body  .qfy-element-li.list_btncate_controls{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/search/btn.jpg) !important;
+}
+body  .qfy-element-li.vc_custom_search{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/search/search.jpg) !important;
+}
+body  .qfy-element-li.list_cate_controls{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/search/list_control_cate.jpg) !important;
+}
+body  .qfy-element-li.vc_column_search{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/search.jpg) !important;
+}
+body  .qfy-element-li.iphorm_vc {
+	background-image: url(//f.goodq.top/FeiEditor/images/com/form.jpg) !important;
+}
+body  .qfy-element-li.vc_raw_js {
+	background-image: url(//f.goodq.top/FeiEditor/images/com/js.jpg) !important;
+}
+body  .qfy-element-li.vc_column_text_notice3{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/notice/notice.jpg) !important;
+}
+body  .qfy-element-li.vc_prenext{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/prenext.jpg) !important;
+}
+body  .qfy-element-li.vc_column_breadcrumbs{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/crumb.jpg) !important;
+}
+body  .qfy-element-li.list_menu_level{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/page_menu1.jpg) !important;
+}
+
+body  .qfy-element-li.list_menu_vertical{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/page_menu.jpg) !important;
+}
+body  .qfy-element-li.slidercontent{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/huodong/slidercontent.jpg) !important;
+}
+body  .qfy-element-li.accordioncontent{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/huodong/drawcontent.jpg) !important;
+}
+body  .qfy-element-li.tabcontent{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/huodong/tabcontent.jpg) !important;
+}
+body  .qfy-element-li.vc_column_blank{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/blank.jpg) !important;
+}
+body  .qfy-element-li.vc_bit_raw_video{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/video-remote.jpg) !important;
+}
+body  .qfy-element-li.Bit_HTML5_Video{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/video.jpg) !important;
+}
+body  .qfy-element-li.vc_jplayer{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/audio.jpg) !important;
+}
+body  .qfy-element-li.qfy_yun_video{
+	background: url('//f.goodq.top/FeiEditor/images/com/cloudvideo.jpg') no-repeat transparent;
+}
+body  .qfy-element-li.vc_column_text_dy_user{
+	background: url('//f.goodq.top/FeiEditor/images/com/user_dy.jpg') no-repeat transparent;
+}
+body  .qfy-element-li.vc_column_text_dy_ulist{
+	background: url('//f.goodq.top/FeiEditor/images/com/user_dylist.jpg') no-repeat transparent;
+}
+
+body  .qfy-element-li.vc_column_text_shop_1 {
+	background-image: url(//f.goodq.top/FeiEditor/images/com/shop/product-info.jpg) !important;
+}
+body  .qfy-element-li.vc_column_text_shop_3 {
+	background-image: url(//f.goodq.top/FeiEditor/images/com/shop/product-shopping-cart.jpg) !important;
+}
+body  .qfy-element-li.product_coupon {
+	background-image: url(//f.goodq.top/FeiEditor/images/com/shop/coupon.jpg) !important;
+}
+body  .qfy-element-li.vc_column_text_shop_2 {
+	background-image: url(//f.goodq.top/FeiEditor/images/com/shop/product-list.jpg) !important;
+}
+body  .qfy-element-li.qfbook {
+	background: url('//f.goodq.top/FeiEditor/images/com/searchbook.jpg') no-repeat scroll 0 0 transparent;
+}
+body  .qfy-element-li.qfbookform {
+	background: url('//f.goodq.top/FeiEditor/images/com/searchbookform.jpg') no-repeat scroll 0 0 transparent;
+}
+body  .qfy-element-li.vc_column_text_user_1{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/user/user_1.jpg) !important;
+}
+body  .qfy-element-li.vc_column_text_user_2{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/user/user_2.jpg) !important;
+}
+body  .qfy-element-li.vc_column_text_user_3{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/user/user_3.jpg) !important;
+}
+body  .qfy-element-li.vc_column_text_user_4{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/user/user_4.jpg) !important;
+}
+body  .qfy-element-li.vc_column_text_user_5{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/user/user_5.jpg) !important;
+}
+body  .qfy-element-li.vc_phonenumber{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/user/changephone.jpg) !important;
+}
+
+body  .qfy-element-li.comment{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/socail/comment.jpg) !important;
+}
+body  .qfy-element-li.qfyshare{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/socail/qfyshare.jpg) !important;
+}
+body  .qfy-element-li.qfyatt{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/socail/qfyatt.jpg) !important;
+}
+body  .qfy-element-li.disqus_comment{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/socail/disqus_comment.jpg) !important;
+}
+body  .qfy-element-li.uyan_comment{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/socail/uyan_comment.jpg) !important;
+}
+
+body  .qfy-element-li.vc_simple_header{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/title-7.jpg) !important;
+}
+body  .qfy-element-li.vc_flag_list{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/icons/flag_icon.jpg) !important;
+}
+body  .qfy-element-li.vc_jsscroll_text{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/paomadeng.jpg) !important;
+}
+body  .qfy-element-li.vc_column_custom_text{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/custom.jpg) !important;
+}
+body  .qfy-element-li.Bit-VCSC-Circliful{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/progress/circle_counter.jpg) !important;
+}
+body  .qfy-element-li.Bit-progressbar{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/progress/progress_bar.jpg) !important;
+}
+body  .qfy-element-li.Bit-vc-counter{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/progress/counter.jpg) !important;
+}
+body  .qfy-element-li.TS_VCSC_Countdown {
+	background-image: url(//f.goodq.top/FeiEditor/images/com/clock.jpg) !important;
+}
+body  .qfy-element-li.vc_translate {
+	background-image: url(//f.goodq.top/FeiEditor/images/com/language.jpg) !important;
+}
+body  .qfy-element-li.vc_threeview {
+	background-image: url(//f.goodq.top/FeiEditor/images/com/3d.png) !important;
+}
+body  .qfy-element-li.vc_threephoto {
+	background-image: url(//f.goodq.top/FeiEditor/images/com/3d360.png) !important;
+}
+body  .qfy-element-li.qfbook{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/qbook.jpg) !important;
+}
+body  .qfy-element-li.qfbookform{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/qfbooksearch.jpg) !important;
+}
+body  .qfy-element-li.qfy_secode
+{
+	background: url('//f.goodq.top/FeiEditor/images/com/secode.jpg') no-repeat scroll 0 0 transparent;
+}
+body  .qfy-element-li.vc_column_text_column_blank_special,
+body  .dragitem.vc_column_text_column_blank_special {
+	background: url('//f.goodq.top/FeiEditor/images/com/positionrow.jpg') no-repeat;
+}
+body  .qfy-element-li.usermanage
+{
+	display:none !important;
+}
+body  .qfy-element-li.product_navigation{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/search/pro-search.jpg) !important;
+}
+
+
+
+body  .qfy-element-li.mini_text{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/text.jpg) !important;
+}
+body  .qfy-element-li.mini_swiper{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/slider-1.jpg) !important;
+}
+body  .qfy-element-li.mini_icon{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/single_icon.jpg) !important;
+}
+body  .qfy-element-li.mini_progress{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/progress_bar.jpg) !important;
+}
+body  .qfy-element-li.mini_button{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/button.jpg) !important;
+}
+body  .qfy-element-li.mini_form{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/form.jpg) !important;
+}
+body  .qfy-element-li.mini_image{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/image.jpg) !important;
+}
+body  .qfy-element-li.mini_title{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/title.jpg) !important;
+}
+body  .qfy-element-li.mini_audio{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/audio.jpg) !important;
+}
+body  .qfy-element-li.mini_video{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/video.jpg) !important;
+}
+body  .qfy-element-li.mini_qqmap{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/map.jpg) !important;
+}
+body  .qfy-element-li.mini_searchinput{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/search.jpg) !important;
+}
+body  .qfy-element-li.mini_gallery{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/images/gallery1.jpg) !important;
+}
+body  .qfy-element-li.mini_list{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/post_list.jpg) !important;
+}
+body  .qfy-element-li.mini_usercentercomponent{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/user.png) !important;
+}
+body  .qfy-element-li.mini_news{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/post_list.jpg) !important;
+}
+body  .qfy-element-li.mini_goods{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/shop/product-list.jpg) !important;
+}
+body  .qfy-element-li.mini_coupons{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/shop/coupon.jpg) !important;
+}
+body  .qfy-element-li.mini_cates{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/list-cate.jpg) !important;
+}
+body  .qfy-element-li.mini_sorts{
+	background-image: url(//f.goodq.top/FeiEditor/images/com/list-sort.jpg) !important;
+}
